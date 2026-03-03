@@ -77,38 +77,38 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| PAGE-01 | — | Pending |
-| PAGE-02 | — | Pending |
-| PAGE-03 | — | Pending |
-| PAGE-04 | — | Pending |
-| PAGE-05 | — | Pending |
-| PAGE-06 | — | Pending |
-| PAGE-07 | — | Pending |
-| PAGE-08 | — | Pending |
-| SEO-01 | — | Pending |
-| SEO-02 | — | Pending |
-| SEO-03 | — | Pending |
-| SEO-04 | — | Pending |
-| SEO-05 | — | Pending |
-| SEO-06 | — | Pending |
-| SEO-07 | — | Pending |
-| SEO-08 | — | Pending |
-| SEO-09 | — | Pending |
-| SEO-10 | — | Pending |
-| SEO-11 | — | Pending |
-| DES-01 | — | Pending |
-| DES-02 | — | Pending |
-| DES-03 | — | Pending |
-| INF-01 | — | Pending |
-| INF-02 | — | Pending |
-| INF-03 | — | Pending |
-| INF-04 | — | Pending |
+| PAGE-01 | Phase 1 | Pending |
+| PAGE-02 | Phase 1 | Pending |
+| PAGE-03 | Phase 1 | Pending |
+| PAGE-04 | Phase 1 | Pending |
+| PAGE-05 | Phase 1 | Pending |
+| PAGE-06 | Phase 1 | Pending |
+| PAGE-07 | Phase 1 | Pending |
+| PAGE-08 | Phase 1 | Pending |
+| SEO-01 | Phase 1 | Pending |
+| SEO-02 | Phase 1 | Pending |
+| SEO-03 | Phase 1 | Pending |
+| SEO-04 | Phase 1 | Pending |
+| SEO-05 | Phase 1 | Pending |
+| SEO-06 | Phase 1 | Pending |
+| SEO-07 | Phase 1 | Pending |
+| SEO-08 | Phase 1 | Pending |
+| SEO-09 | Phase 1 | Pending |
+| SEO-10 | Phase 1 | Pending |
+| SEO-11 | Phase 1 | Pending |
+| DES-01 | Phase 1 | Pending |
+| DES-02 | Phase 1 | Pending |
+| DES-03 | Phase 1 | Pending |
+| INF-01 | Phase 1 | Pending |
+| INF-02 | Phase 2 | Pending |
+| INF-03 | Phase 1 | Pending |
+| INF-04 | Phase 2 | Pending |
 
 **Coverage:**
 - v1 requirements: 26 total
-- Mapped to phases: 0
-- Unmapped: 26
+- Mapped to phases: 26
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-03*
-*Last updated: 2026-03-03 after initial definition*
+*Last updated: 2026-03-03 after roadmap creation*
