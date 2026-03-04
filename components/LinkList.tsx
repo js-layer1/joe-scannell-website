@@ -6,12 +6,12 @@ const links = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/joescannell', // PLACEHOLDER -- confirm slug in Plan 01-03
+    href: 'https://www.linkedin.com/in/joe-scannell',
     icon: '↗',
   },
   {
     label: 'Twitter / X',
-    href: 'https://twitter.com/joescannell', // PLACEHOLDER -- confirm handle in Plan 01-03
+    href: 'https://twitter.com/joe_scannell',
     icon: '↗',
   },
   {
