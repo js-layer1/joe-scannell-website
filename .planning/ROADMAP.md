@@ -31,8 +31,8 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 Plans:
 - [x] 01-01-PLAN.md -- Bootstrap Next.js 16.1.6, static export config, Geist font, vercel.json noindex, first Vercel deploy
-- [ ] 01-02-PLAN.md -- Avatar/NameCard/LinkList components, warm design system, favicon, apple-icon, OG image; human verify checkpoint
-- [ ] 01-03-PLAN.md -- Full metadata export, Person JSON-LD schema, sitemap.ts, robots.ts, Lighthouse audit gate
+- [x] 01-02-PLAN.md -- Avatar/NameCard/LinkList components, warm design system, favicon, apple-icon, OG image; human verify checkpoint
+- [x] 01-03-PLAN.md -- Full metadata export, Person JSON-LD schema, sitemap.ts, robots.ts, Lighthouse audit gate
 
 ### Phase 2: DNS Cutover and GSC
 **Goal**: joescannell.com resolves to the Vercel-hosted site with SSL, Google Search Console is verified, and the site is submitted for indexing
@@ -42,10 +42,10 @@ Plans:
   1. https://joescannell.com loads the site with a valid SSL certificate issued by Vercel
   2. Google Search Console shows the domain property as verified and the sitemap as submitted and indexed
   3. Visiting joescannell.vercel.app returns a noindex header and does not appear as a separate indexed result in Google
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 02-01: Pre-flight checklist, add custom domain to Vercel, wait for SSL certificate, cut DNS from Carrd, verify GSC
+- [ ] 02-01-PLAN.md -- Add custom domain to Vercel, pre-generate SSL, cut DNS from Carrd, replace GSC token, verify GSC, submit sitemap
 
 ## Progress
 
