@@ -41,9 +41,9 @@ Requirements for initial release. Each maps to roadmap phases.
 ### Infrastructure
 
 - [x] **INF-01**: Site is built with Next.js and deployed on Vercel
-- [ ] **INF-02**: Custom domain joescannell.com configured on Vercel with SSL
+- [x] **INF-02**: Custom domain joescannell.com configured on Vercel with SSL
 - [x] **INF-03**: Vercel subdomain (.vercel.app) has noindex header to prevent duplicate indexing
-- [ ] **INF-04**: DNS cutover from Carrd to Vercel completed
+- [x] **INF-04**: DNS cutover from Carrd to Vercel completed
 
 ## v2 Requirements
 
@@ -100,9 +100,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | DES-02 | Phase 1 | Complete |
 | DES-03 | Phase 1 | Complete (01-01) |
 | INF-01 | Phase 1 | Complete (01-01) |
-| INF-02 | Phase 2 | Pending |
+| INF-02 | Phase 2 | Complete |
 | INF-03 | Phase 1 | Complete (01-01) |
-| INF-04 | Phase 2 | Pending |
+| INF-04 | Phase 2 | Complete |
 
 **Coverage:**
 - v1 requirements: 26 total
@@ -111,4 +111,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-03-03*
-*Last updated: 2026-03-04 after Plan 01-01 completion (INF-01, INF-03, DES-03 complete)*
+*Last updated: 2026-03-04 after Phase 2 completion (all 26 requirements complete)*
