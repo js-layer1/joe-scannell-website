@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import { Geist } from 'next/font/google'
 import './globals.css'
-import { GoogleAnalytics } from '@next/third-parties/google
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const geist = Geist({
   subsets: ['latin'],
@@ -73,7 +73,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" className={geist.variable}>
       <body className="antialiased">
-                  <GoogleAnalytics gaId="G-GE2YJQ7E1J" />
+        <GoogleAnalytics gaId="G-GE2YJQ7E1J" />
         {children}
         <script
           type="application/ld+json"
