@@ -13,7 +13,7 @@ Two phases deliver the complete project. Phase 1 builds and deploys the site on 
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Build and Deploy** - Scaffold Next.js site, build all content and SEO layers, deploy to Vercel subdomain, pass pre-launch verification (completed 2026-03-04)
-- [ ] **Phase 2: DNS Cutover and GSC** - Configure custom domain on Vercel, cut DNS from Carrd, submit sitemap to Google Search Console
+- [x] **Phase 2: DNS Cutover and GSC** - Configure custom domain on Vercel, cut DNS from Carrd, submit sitemap to Google Search Console (completed 2026-03-04)
 
 ## Phase Details
 
@@ -45,7 +45,7 @@ Plans:
 **Plans**: 1 plan
 
 Plans:
-- [ ] 02-01-PLAN.md -- Add custom domain to Vercel, pre-generate SSL, cut DNS from Carrd, replace GSC token, verify GSC, submit sitemap
+- [x] 02-01-PLAN.md -- Add custom domain to Vercel, pre-generate SSL, cut DNS from Carrd, GSC verified via DNS, sitemap submitted
 
 ## Progress
 
@@ -55,4 +55,4 @@ Phases execute in numeric order: 1 → 2
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Build and Deploy | 3/3 | Complete   | 2026-03-04 |
-| 2. DNS Cutover and GSC | 0/1 | Not started | - |
+| 2. DNS Cutover and GSC | 1/1 | Complete | 2026-03-04 |
