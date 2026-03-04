@@ -30,7 +30,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 3 plans
 
 Plans:
-- [ ] 01-01-PLAN.md -- Bootstrap Next.js 16.1.6, static export config, Geist font, vercel.json noindex, first Vercel deploy
+- [x] 01-01-PLAN.md -- Bootstrap Next.js 16.1.6, static export config, Geist font, vercel.json noindex, first Vercel deploy
 - [ ] 01-02-PLAN.md -- Avatar/NameCard/LinkList components, warm design system, favicon, apple-icon, OG image; human verify checkpoint
 - [ ] 01-03-PLAN.md -- Full metadata export, Person JSON-LD schema, sitemap.ts, robots.ts, Lighthouse audit gate
 
@@ -54,5 +54,5 @@ Phases execute in numeric order: 1 → 2
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Build and Deploy | 0/3 | Not started | - |
+| 1. Build and Deploy | 1/3 | In progress | - |
 | 2. DNS Cutover and GSC | 0/1 | Not started | - |

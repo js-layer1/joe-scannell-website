@@ -36,13 +36,13 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [ ] **DES-01**: Site has a clean, personal design distinct from Layer One Group brand
 - [ ] **DES-02**: Site has a favicon and apple-touch-icon
-- [ ] **DES-03**: Site uses a font/typography system appropriate for a personal page
+- [x] **DES-03**: Site uses a font/typography system appropriate for a personal page
 
 ### Infrastructure
 
-- [ ] **INF-01**: Site is built with Next.js and deployed on Vercel
+- [x] **INF-01**: Site is built with Next.js and deployed on Vercel
 - [ ] **INF-02**: Custom domain joescannell.com configured on Vercel with SSL
-- [ ] **INF-03**: Vercel subdomain (.vercel.app) has noindex header to prevent duplicate indexing
+- [x] **INF-03**: Vercel subdomain (.vercel.app) has noindex header to prevent duplicate indexing
 - [ ] **INF-04**: DNS cutover from Carrd to Vercel completed
 
 ## v2 Requirements
@@ -98,10 +98,10 @@ Which phases cover which requirements. Updated during roadmap creation.
 | SEO-11 | Phase 1 | Pending |
 | DES-01 | Phase 1 | Pending |
 | DES-02 | Phase 1 | Pending |
-| DES-03 | Phase 1 | Pending |
-| INF-01 | Phase 1 | Pending |
+| DES-03 | Phase 1 | Complete (01-01) |
+| INF-01 | Phase 1 | Complete (01-01) |
 | INF-02 | Phase 2 | Pending |
-| INF-03 | Phase 1 | Pending |
+| INF-03 | Phase 1 | Complete (01-01) |
 | INF-04 | Phase 2 | Pending |
 
 **Coverage:**
@@ -111,4 +111,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-03-03*
-*Last updated: 2026-03-03 after roadmap creation*
+*Last updated: 2026-03-04 after Plan 01-01 completion (INF-01, INF-03, DES-03 complete)*
