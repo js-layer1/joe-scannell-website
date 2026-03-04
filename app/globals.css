@@ -2,6 +2,16 @@
 
 :root {
   --font-geist: '';
+  --color-bg: #FAF8F5;         /* warm off-white */
+  --color-text: #2C2825;       /* dark charcoal */
+  --color-muted: #6B6560;      /* warm mid-gray for tagline */
+  --color-border: #E8E0D8;     /* warm light border */
+  --color-accent: #B8956A;     /* warm amber accent -- subtle */
+}
+
+html {
+  background-color: var(--color-bg);
+  color: var(--color-text);
 }
 
 body {
