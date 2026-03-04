@@ -27,12 +27,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Lighthouse audit returns LCP under 2.5s, Performance >= 95, and SEO score of 100
   4. The page is mobile-responsive and the layout holds on a 375px viewport
   5. The Vercel subdomain returns an X-Robots-Tag: noindex header (confirmed via curl), preventing Google from indexing the staging URL
-**Plans**: TBD
+**Plans**: 3 plans
 
 Plans:
-- [ ] 01-01: Scaffold Next.js project, configure Tailwind CSS 4, set up Vercel deployment
-- [ ] 01-02: Build UI components (Avatar, NameCard, LinkList), design system, favicon, OG image
-- [ ] 01-03: Implement all SEO metadata, Person schema JSON-LD, sitemap.xml, robots.txt, canonical URL, GSC verification tag
+- [ ] 01-01-PLAN.md -- Bootstrap Next.js 16.1.6, static export config, Geist font, vercel.json noindex, first Vercel deploy
+- [ ] 01-02-PLAN.md -- Avatar/NameCard/LinkList components, warm design system, favicon, apple-icon, OG image; human verify checkpoint
+- [ ] 01-03-PLAN.md -- Full metadata export, Person JSON-LD schema, sitemap.ts, robots.ts, Lighthouse audit gate
 
 ### Phase 2: DNS Cutover and GSC
 **Goal**: joescannell.com resolves to the Vercel-hosted site with SSL, Google Search Console is verified, and the site is submitted for indexing
