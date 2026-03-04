@@ -38,8 +38,7 @@ export const metadata: Metadata = {
     canonical: 'https://joescannell.com',
   },
   verification: {
-    // TODO: Replace GSC_VERIFICATION_TOKEN_PLACEHOLDER with the actual token from Google Search Console
-    google: 'GSC_VERIFICATION_TOKEN_PLACEHOLDER',
+    // GSC verified via DNS (Domain name provider) — no HTML tag needed
   },
   robots: {
     index: true,
