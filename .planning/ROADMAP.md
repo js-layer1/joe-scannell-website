@@ -54,5 +54,5 @@ Phases execute in numeric order: 1 → 2
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Build and Deploy | 1/3 | In progress | - |
+| 1. Build and Deploy | 2/3 | In Progress|  |
 | 2. DNS Cutover and GSC | 0/1 | Not started | - |
